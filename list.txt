@@ -1,0 +1,27 @@
+1. add new 1
+2. add new 2
+3. add new 3
+4. add new 1
+5. add new 2
+6. add new 3
+7. add new 4
+8. add new 5
+1. add new 1
+2. add new 2
+3. add new 3
+4. add new 1
+5. add new 2
+6. add new 3
+7. add new 4
+8. add new 5
+9. dev add new 1
+10. dev add new 2
+11. master add new conflict
+12. dev add new
+13. master add new
+14. master add new
+15. new method added by dev
+16. master add new feature
+16. dev add new change 1
+17. dev add new change 2
+18. dev feature done
